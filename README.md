@@ -20,4 +20,4 @@ const api = new Bonfida();
 
 ## Api Documentation
 
-https://docs.bonfida.com/#get-historical-prices
+https://docs.bonfida.com
