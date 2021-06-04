@@ -1,0 +1,26 @@
+{
+  "name": "bonfida-api",
+  "version": "0.0.1",
+  "description": "A Bonfida api library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamirL/bonfida-api-node.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SamirL/bonfida-api-node/issues"
+  },
+  "homepage": "https://github.com/SamirL/bonfida-api-node#readme",
+  "dependencies": {
+    "assert": "^2.0.0",
+    "axios": "^0.21.0",
+    "crypto": "^1.0.1",
+    "lodash": "^4.17.20",
+    "querystring": "^0.2.0"
+  }
+}
