@@ -1,12 +1,10 @@
 # Bonfida Node.js Library
 
-========
-
 A simple api wrapper for Bonfida Serum
 
 ## Installation
 
-    npm install easycrawler
+    npm install bonfida-api
 
 ## Usage
 
